@@ -1,8 +1,10 @@
-# Abaikan file executable dan data besar
-prometheus.exe
+# Mengabaikan folder database Prometheus
 data/
 
-# Abaikan file cache dan sistem
+# Mengabaikan file executable
+prometheus.exe
+
+# Mengabaikan cache
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
