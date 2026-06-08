@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/698371678063770555/8295367f3efa419482e658f6461d3a99/artifacts
+end_time: 1780924952786
+entry_point_name: ''
+experiment_id: '698371678063770555'
+lifecycle_stage: active
+run_id: 8295367f3efa419482e658f6461d3a99
+run_name: Random_Forest_Tuning_Manual_Log
+run_uuid: 8295367f3efa419482e658f6461d3a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780924913514
+status: 3
+tags: []
+user_id: ASUS
