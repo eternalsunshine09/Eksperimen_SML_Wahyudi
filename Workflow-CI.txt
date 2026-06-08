@@ -1,0 +1,15 @@
+Nama Proyek    : Workflow CI/CD - Prediksi Customer Churn
+Nama Siswa     : Wahyudi
+Dicoding ID    : wahyudiwahyudi
+
+Tautan Repository : https://github.com/eternalsunshine09/Workflow-CI.git
+
+Keterangan:
+Workflow Continuous Integration (CI) ini telah dikonfigurasi menggunakan GitHub Actions. 
+Pipeline ini mencakup:
+1. Otomatisasi pengujian kode setiap kali ada push ke repository.
+2. Validasi dependensi (requirements.txt).
+3. Penjalanan workflow untuk memastikan model dan kode dapat berjalan di environment terisolasi.
+4. Penyimpanan model sebagai Artifact di GitHub Actions sebagai bukti keberhasilan pipeline.
+
+Status Repository : PUBLIC (Dapat diakses oleh reviewer)

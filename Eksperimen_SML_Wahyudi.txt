@@ -1,0 +1,17 @@
+Nama Proyek    : Prediksi Customer Churn pada Telco Dataset
+Nama Siswa     : Wahyudi Cahyono
+Dicoding ID    : wahyudiwahyudi
+
+Tautan GitHub  : https://github.com/eternalsunshine09/Eksperimen_SML_Wahyudi.git
+
+Deskripsi Proyek:
+Proyek ini membangun sistem machine learning end-to-end untuk melakukan klasifikasi pelanggan yang berisiko berhenti berlangganan (churn) menggunakan dataset Telco Customer Churn. 
+
+Alur kerja yang diterapkan meliputi:
+1. Eksperimen manual & EDA (Exploratory Data Analysis) serta proses preprocessing data.
+2. Pelatihan model dengan MLflow Tracking untuk pelacakan eksperimen dan hyperparameter tuning untuk mendapatkan performa terbaik.
+3. CI/CD Pipeline menggunakan GitHub Actions untuk otomatisasi pengujian model dan validasi kode.
+4. Model Serving menggunakan FastAPI untuk menyajikan prediksi secara real-time.
+5. Monitoring sistem menggunakan Prometheus sebagai sumber data metrik dan Grafana sebagai tools visualisasi serta alerting. Sistem ini memantau performa model (accuracy, latency), error rate, dan penggunaan sumber daya sistem (CPU) secara otomatis.
+
+Proyek ini telah menerapkan prinsip-prinsip MLOps untuk memastikan stabilitas, kualitas, dan keterlacakan performa model dalam lingkungan produksi.

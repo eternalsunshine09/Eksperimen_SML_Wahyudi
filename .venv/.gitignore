@@ -1,0 +1,10 @@
+# Abaikan file executable dan data besar
+prometheus.exe
+data/
+
+# Abaikan file cache dan sistem
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
